@@ -94,7 +94,7 @@ python gui.py
 
 Select Music File: Click the "Browse" button to choose your desired music file (.mp3 or .wav).
 Enter BPM: BPM is a very basic concept in music, means how fast the music is. Input the BPM (Beats Per Minute) of your selected music. 
-Start: Click the "Start" button to launch the application.
+Start: Click the "Start" button to launch the application.<br>
 <img width="387" alt="a8edfddfaf16287b10a77dad8a1760e" src="https://github.com/user-attachments/assets/09070ced-d046-4e14-86a7-5bbfb0fa3373"> <br>
 
 3. **Control Music with Gestures**
